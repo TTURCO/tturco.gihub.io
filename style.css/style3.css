@@ -1,0 +1,68 @@
+.navbar-brand img{
+	max-height: 40px;
+}
+header{
+	
+   background-image: url(../Image/pere3.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   min-height: 49vh;
+   clip-path: polygon(0 0, 100% 0%, 100% 100%, 0 108%);
+
+}
+
+header .row{
+	min-height: 50vh;
+	color: blue:;
+}
+
+header .formRes{
+	background-color: rgba(0,0,0,0.5);
+	min-height: 80vh;
+	display: flex;
+	color: white;
+	font-family: 'Poppins', sans-serif;
+	font-size: 50px;
+}
+header .formRis{
+	display: flex;
+	min-height: 50vh;
+	font-family: 'Liu Jian Mao Cao', cursive;
+	font-size: 50px;
+	align-items: flex-end;
+	justify-content: flex-end;
+	color: white;
+	margin-bottom: 45px;
+	padding-left: 150px;
+}
+
+#outils .media:hover{
+	background-color: white;
+	transition: all .2s ease-in-out;
+	border-radius: 6px;
+}
+
+.Realpass{
+	background-color: #d3dae4;
+	min-height: calc(100vh) ;
+}
+
+IMG.nul {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+.sac {
+ min-height: 100vh;
+ background-image:url(../Image/pere2.jpg);
+ background-size: 800px 900px;
+ background-repeat: no-repeat;
+ background-attachment:;
+ }
+
+footer{
+ 	padding: 10px;
+ 	background: rgb(30,30,30);
+ 	color: lightgray;
+ }
+
