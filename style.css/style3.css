@@ -1,9 +1,9 @@
 .navbar-brand img{
-	max-height: 40px;
+	max-height: 50px;
 }
 header{
 	
-   background-image: url(../Image/pere3.jpg);
+   background-image: url(../Image/Banniere.png);
    background-size: cover;
    background-repeat: no-repeat;
    background-attachment: fixed;
